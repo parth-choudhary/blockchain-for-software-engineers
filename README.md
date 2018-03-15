@@ -8,15 +8,6 @@ A collection of resources that I've gathered over the past couple years while ad
 
 This list is by no means exhaustive and is centered on the end goal of building production quality smart contracts and DApps. My journey has been focused on Ethereum but I would love this list to expand and not just be limited to one Blockchain. All contributions welcome!
 
-## About me
-My background is in FinTech and I've worked in Investment Banking, Private Equity, and consumer facing investment companies. I'm currently exploring the intersection of deep learning and blockchain to engineer Web 3.0. If you are doing something similar, reach out :).
-
-Linkedin: https://www.linkedin.com/in/benstewart2008/
-
-Twitter: @bigbenstew
-
-Medium: https://medium.com/@BIGbenStew
-
 
 ## Goal
 Create and curate a list of resources for aspiring and seasoned blockchain engineers.
